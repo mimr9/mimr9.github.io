@@ -380,7 +380,7 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
-		max-width: 110px;
+		max-width: 150px;
 		@include rounded(25px);
 	}
 	@media #{$small} {
@@ -428,7 +428,7 @@ $button-size: 1.5rem;
 	.bio-photo {
 		float: left;
 		margin-right: 25px;
-		max-width: 100px;
+		max-width: 150px;
 		@include rounded(25px);
 	}
 	.author-social {
