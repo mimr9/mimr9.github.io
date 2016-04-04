@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Mohammadreza Moghimi
 locale:           en_US
-url:
+url:              mimr.ir
 
 
 # Jekyll configuration
@@ -41,23 +41,15 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Mohammadreza Moghimi
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  bio: "If you cannot do great things do small things in a great way"
+  email: "mimr.moghimi@gmail.com"
+  disqus-shortname: "mimr moghimi"
+  twitter: "javanevis"
+  github: "mimr9"
+  stackoverflow: "5532744/mimr-moghimi"
+  linkedin: "in/mohammadreza-moghimi-3b470a87"
   xing: #username
   instagram: #username
   lastfm: #username
