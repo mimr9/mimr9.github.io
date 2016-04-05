@@ -10,7 +10,7 @@ image:
 ---
 Student at University of mazandaran. I intend to be a developer . I like programming, writing code and design softwares . I'm so like collaborate in a open source project. I love linux and one of my hobbies is that try some linux distros. Main OS that I use is opensuse, specially leap 42.1 . opensuse leap is a great point and advantage for linux desktop world.
 
-some of my interests programming languages : 
+some of my beloved programming languages : 
 
 * JAVA
 * python
