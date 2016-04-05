@@ -1,25 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About your host
+tags: [about, mimr, moghimi, mohammadreza, mohammad-reza-moghimi]
 comments: true
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+Student at University of mazandaran. I intend to be a developer . I like programming, writing code and design softwares . I'm so like consider in a open source project. I love linux and one of my hobbies is that try some linux distros. Main OS that I use is opensuse, specially leap 42.1 version . opensuse leap is a great point and advantage for linux desktop world.
+some of my interests programming languages : 
+* JAVA
+* python
+* c++
+* shell
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
-
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Sometimes I'm playing game. One of my favorite games is minecraft . Minecraft is a open world game that most of you should know many things about it. by the way I love music. My favorite music genres are pop, trance and country. Also my favorite musicians are Justin Timberlake and Taylor Swift.
