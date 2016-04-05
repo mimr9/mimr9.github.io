@@ -6,5 +6,5 @@ categories: {{ dir }}
 excerpt:
 tags: []
 image:
-  feature:
+  feature: sample-image-7.jpg
 ---
