@@ -13,3 +13,13 @@ You can see some of my project whether I begin or collaborate here :
 ### Migim.ir
 
 A technology and programming blog that i make it for sharing and writing some of my opinion with everyone . This project is build base on wordpress. [More](http://migim.ir) .
+
+### Finds.ir
+
+An online service consist of: news, markets prices, photo channel, online market, wiki,... . I collaborate in this project as a seo consultant and a writter. [More](http://finds.ir) .
+
+### Findcar.ir
+
+An online car market and car blog. Like finds.ir I collaborate in this project as a seo consultant and a writter. [More](http://findcar.ir) .
+
+
