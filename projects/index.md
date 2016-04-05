@@ -12,7 +12,7 @@ You can see some of my project whether I begin or collaborate here :
 
 ### Migim.ir
 
-A technology and programming blog that i make it for sharing and writing some of my opinion with everyone . This project is build base on wordpress. [More](http://migim.ir) .
+A technology, programming and ... blog that i make it for share some of my opinion, useful news and linkes with everyone . This project is build base on wordpress. [More](http://migim.ir) .
 
 ### Finds.ir
 
