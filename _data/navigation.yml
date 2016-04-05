@@ -9,8 +9,8 @@
 - title: Projects
   url: /projects/
 
-- title: RSS
-  url: /feed.xml
-
 - title: Videos
   url: http://www.aparat.com/mimr9
+
+- title: RSS
+  url: /feed.xml
