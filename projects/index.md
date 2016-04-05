@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About your host
-tags: [about, mimr, moghimi, mohammadreza, mohammad-reza-moghimi]
+title: Projects
+tags: [projects, mimr, moghimi, mohammadreza, mohammad-reza-moghimi]
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: Freepik
-  creditlink: http://www.freepik.com
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
