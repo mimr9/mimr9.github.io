@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finally I install LAMP server!!!"
+title: "Finally I installed LAMP server!!!"
 date: 2016-04-07
 ---
 Can you believe that? Finally after one year I could insatll LAMP server on my opensuse. 
