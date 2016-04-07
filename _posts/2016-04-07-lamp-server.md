@@ -15,5 +15,5 @@ According the above picture, LAMP is stand for "Linux Apache Mysql Php" server. 
 #### How I did it?
 
 Well, first I install all package of LAMP server in YaST on my opensuse and following the instruction of [opensuse website](https://en.opensuse.org/SDB:LAMP_setup) , I could do that. So, the next question is: Why it spend one year?
-well, I should admit that sometimes I'm so lazy that's the main cause of this event . By the way, I'm so happy that I can start php programming in my linux.
+well, I should admit that sometimes I'm so lazy that's the main cause of this event . By the way, I'm so happy that I can begin php programming in my linux.
 
