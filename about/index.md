@@ -13,8 +13,8 @@ Student at University of mazandaran. I intend to be a developer . I like program
 some of my beloved programming languages : 
 
 * JAVA
-* python
-* c++
-* shell
+* Python
+* PHP
+* Shell
 
 Sometimes I'm playing game. One of my favorite games is minecraft . Minecraft is a open world game that most of you should know many things about it. by the way I love music. My favorite music genres are pop, trance and country. Also my favorite musicians are Justin Timberlake and Taylor Swift.
