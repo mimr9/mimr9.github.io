@@ -8,5 +8,5 @@ Every times that I wanted to start this important, suddenly, it failed, but toda
 <figure>
 	<img src="http://s7.picofile.com/file/8246616168/php_banner.jpg">
 </figure>
-I like php because it's free, open source, most host servers support it, some great CMS project like wordpress, use it, php's syntax is so like "C like" programming laguage, it don't need special platform, and so on.
+I like php because it's free, open source, most host servers support it, some great CMS project like wordpress, use it, php's syntax is so like "C like" programming laguages, it don't need special platform, and so on.
 learning php professionally is one of my dreams. I hope to learn it easily.
