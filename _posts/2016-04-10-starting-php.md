@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Try to learn php basically!"
+title: "Try to learn php, basically!"
 date: 2016-04-10
 ---
 Hello guys, today I'm trying to learn php basically. I learned some of php statements and features but that was not basically . 
