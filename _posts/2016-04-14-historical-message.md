@@ -4,7 +4,7 @@ title: "Historical message form finland!"
 date: 2016-04-14
 ---
 25th august of 1991 in 20:57 . If you can not remember this date, don't worry. you just waste your entire life!
-I'm kidding but this date of time is when a 21 years old person sent a historical message from finland. That person was young linus torvalds and the message was this:
+I'm kidding but this date of time was when a 21 years old person sent a historical message from finland. That person was young linus torvalds and the message was this:
 <figure>
 <img src="http://s6.picofile.com/file/8247215142/1338136415_ea9af6308c_o.jpg" />
 </figure>
