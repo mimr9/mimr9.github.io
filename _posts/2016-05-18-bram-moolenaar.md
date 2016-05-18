@@ -6,7 +6,7 @@ date: 2016-05-04
 <figure>
   <img src="http://www.moolenaar.net/kopk.jpg" />
 </figure>
-<p>Did you ever heard name of this man? The answer of most of you is "No", So who's this man? He is a great programmer, name's Bram Moolenaar. This dutch programmer is the author of Vim text editor, one of the most popular editor between professional programmers and power users.</p>
+<p>Did you ever heard the name of this man? The answer of most of you is "No", So who's this man? He is a great programmer, name's Bram Moolenaar. This dutch programmer is the author of Vim text editor, one of the most popular editor between professional programmers and power users.</p>
 <p>I'm using Vim but not for everything but for shell scripting, it is a absolute choice. 
 And this is my vim:</p>
 <figure>
