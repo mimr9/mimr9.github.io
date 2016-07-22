@@ -38,6 +38,10 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "mimr.disqus.com/admin"
 
 # Site owner
 owner:
