@@ -38,6 +38,15 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
+
 comments:
   provider: "disqus"
   disqus:
