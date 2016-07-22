@@ -7,7 +7,7 @@ url:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "your-disqus-shortname"
+    shortname: "mimr.disqus.com"
     
 defaults:
   # _posts
