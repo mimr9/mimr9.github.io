@@ -3,11 +3,6 @@
 title:            Mohammadreza Moghimi
 locale:           en_US
 url:
-
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "mimr.disqus.com"
     
 defaults:
   # _posts
@@ -21,6 +16,11 @@ defaults:
       comments: true
       share: true
       related: true
+      
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "mimr.disqus.com"
 
 # Jekyll configuration
 
