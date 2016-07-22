@@ -24,18 +24,7 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
   
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      comments: true
 
-comments:
-  provider               : "disqus"
-  disqus:
-    shortname            : "mimr.disqus.com"
 
 # Octopress
 
