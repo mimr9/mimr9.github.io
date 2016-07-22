@@ -35,7 +35,7 @@ defaults:
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : mimr.disqus.com
+    shortname            : "mimr.disqus.com"
 
 # Octopress
 
