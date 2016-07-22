@@ -5,6 +5,19 @@ locale:           en_US
 url:
 
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 # Jekyll configuration
 
 permalink:   /:year/:month/:day/:title/
