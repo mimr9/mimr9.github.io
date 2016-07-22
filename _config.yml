@@ -24,6 +24,10 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : https://mimr.disqus.com/admin/
 
 # Octopress
 
@@ -38,19 +42,6 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      comments: true
-
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "mimr.disqus.com/admin"
 
 # Site owner
 owner:
