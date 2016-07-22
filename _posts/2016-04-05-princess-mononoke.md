@@ -2,6 +2,7 @@
 layout: post
 title: "princess mononoke is my dream!"
 date: 2016-04-05
+comments: true
 ---
 Well, princess mononoke is a nostalgic animation that some of us saw in past . That happen in a normal life . 
 
