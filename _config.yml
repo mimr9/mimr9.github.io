@@ -4,7 +4,11 @@ title:            Mohammadreza Moghimi
 locale:           en_US
 url:
 
-
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "your-disqus-shortname"
+    
 defaults:
   # _posts
   - scope:
