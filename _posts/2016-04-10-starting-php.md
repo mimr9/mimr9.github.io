@@ -2,6 +2,7 @@
 layout: post
 title: "Try to learn php, basically!"
 date: 2016-04-10
+comments: true
 ---
 Hello guys, today I'm trying to learn php, basically. I learned some of php statements and features but that was not basically . 
 Every times that I wanted to start this important, suddenly, it failed, but today I'm gonna try seriously.
