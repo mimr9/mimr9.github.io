@@ -2,6 +2,7 @@
 layout: post
 title: "Finally I installed LAMP server!!!"
 date: 2016-04-07
+comments: true
 ---
 Can you believe that? Finally after one year I could insatll LAMP server on my opensuse. 
 So, what is LAMP?
