@@ -2,6 +2,7 @@
 layout: post
 title: "Who is Bram Moolenaar?"
 date: 2016-05-04
+comments: true
 ---
 <figure>
   <img src="http://www.moolenaar.net/kopk.jpg" />
