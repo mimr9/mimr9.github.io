@@ -2,6 +2,7 @@
 layout: post
 title: "Is shell a programming language?"
 date: 2016-05-04
+comments: true
 ---
 Most of us that use UNIX like operating systems like linux, at least one time, we used shell for doing our commands that we can not do that in graphical environment. Most of novices like me think that the shell is just a command line ( i'm using bash shell on my linux machine ) and it is nothing more but brian kerninghan say something almost 32 years ago that solve this problem for someone like me : 
 <figure>
