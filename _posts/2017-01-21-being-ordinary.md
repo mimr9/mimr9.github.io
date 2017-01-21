@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 comments: true
 ---
-After almost 9 month, I decide to publish another post. Well, this is not an ordinary thing but in ordinary culture today, there is no blog post. nowaday ordinary one use social networks and messaging app like telegram and whats app as all we do.
+After almost 9 month, I decide to publish another post. Well, this is not an ordinary thing but in ordinary culture today, there is no blog post. nowaday ordinary ones use social networks and messaging app like telegram and whats app as all we do.
 In this nine month, I learn many things, tried something better than past and somedays, I did anything but after all, I found out that:
 
  Being ordinary is better!
