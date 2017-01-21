@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being ordinary!"
-date: 2016-05-04
+date: 2017-01-21
 header:
   image: http://s8.picofile.com/file/8283272926/j8kmioltmga_matt_palmer.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
