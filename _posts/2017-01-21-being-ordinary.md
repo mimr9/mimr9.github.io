@@ -37,7 +37,7 @@ Yes, being ordinary is seen nice but until when?
 
 Sometimes I think that all of your pain of your life is the result of this decision but my answer to this bad ideas is : 
 
- This is not the end, I am the creator of my future and my karma.
+ This is not the end, I am the creator of my future and my destiny.
 
 <figure>
   <img src="http://s7.picofile.com/file/8283278192/the_creation_of_wealth_FB_cover.png" />
@@ -46,4 +46,5 @@ Sometimes I think that all of your pain of your life is the result of this decis
 I believe to this role of life:
 
  Good thougts, Good words, Good deeds 
+ 
 I hope you believe too .
